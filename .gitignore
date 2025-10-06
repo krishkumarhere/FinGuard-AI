@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pkl
+*.h5
+.env
+venv/
+.ipynb_checkpoints/
+data/
+models/
+*.csv
+*.xlsx
